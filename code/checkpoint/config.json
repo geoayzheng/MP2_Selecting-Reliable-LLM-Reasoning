@@ -1,0 +1,15 @@
+{
+  "epochs": 5,
+  "rank_index": 2,
+  "attention_weight": 0.75,
+  "pooling": 1,
+  "validation": 0.9385964912280702,
+  "validation_hard": 0.8619718309859155,
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "rank_kind": "linear",
+  "rank_C": 0.001
+}

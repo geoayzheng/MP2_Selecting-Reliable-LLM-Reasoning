@@ -1,0 +1,26 @@
+{
+  "sha256": {
+    "attention_model.py": "3e7ba80cd10e9235bd22be254ce39fd1097e4f362267cfd2fd0b68d51d3913f6",
+    "baseline_submission.py": "95a723b97c5de99f9e1263e69b74d72192479b382ab4d5396ec02de1d021511f",
+    "common.py": "ce03bb877e5abdb4a992d35cb2a8db6cf856aafe9913d26273809a1688907a0d",
+    "lecture_model.py": "6e02954df894e732e167b78e19297d6146dd45539a242037b2692ebd94a5d741",
+    "LICENSE.txt": "86bbb73e855821d7c401912fd4bf82e34313e6e3b6fd6f909f2b6cc9e209a53b",
+    "math_groups.py": "19e3ed34a12f945a5b2b8e4440d4da625c43b3ef529622e87acaee7fda9df5c8",
+    "NOTICE.txt": "d577cdf7202ae22f2b19ace348b0ec69958a59aaf51d30cdab902bf7c1e67d78",
+    "predict.py": "6198806d3210308fc3cd79608b2452f969103990638817f1ffad2af8cfa6c8fd",
+    "README.md": "734ddcd3a09d71a7dddfcf78d9914ce1e42c842f5eb1d84bf93feb2d64868ca0",
+    "requirements-training-lock.txt": "b962ff8ec2d26a75c6e2d3ce579b1c07ac8e2533a4683e59f061f8b0675e67c7",
+    "requirements.txt": "0e1820e0efecfa6096a70b47404f93498c1c2c53fc7639467535547fe62d16b5",
+    "run.cmd": "71e9176263cc391cd1a24815f62785d0505b05a9ac786b37d9729f5e3de8b6a8",
+    "run.py": "69e7a86d44744b88910fc9cf225d0952cdb88a9fd8960d741824b56f3a6eb298",
+    "score_predictions.py": "dd3ce45543e2ac1408089bed39eba87a008e9c17ca399ff61d315670636ddc47",
+    "submission_attention.py": "139ac699ae611b9917e2ec95c7af58e58ea72a2eb897990aa9e2415adc2ceba8",
+    "train_attention.py": "a4704a941175c6219f8628b61bbb466e677c760cd49dcf93d1354f1ac7d70af6",
+    "train_fixed.py": "263f244e5954ced3b09b86bd7ec6a1cc41bfbcb216b87acdeb0c9c9d61ba8bbf",
+    "checkpoint/attention_123.pt": "f94e8310f976ced0ba4ca7ec459dc8f97bf91b1cb2edbf321ac37791fc30185c",
+    "checkpoint/attention_2026.pt": "8af57b87de0f21b57810b995765dac8057ad64613b04d64d1f4d6f2d973a56bf",
+    "checkpoint/attention_42.pt": "737f3fa3ab6f876048a8433cff1c5d12880656740d4cfd07273f94b161cc663c",
+    "checkpoint/config.json": "d3a127789326d66bec4271f89898a519b93071806138b9aa4603ccdb2ebd1386",
+    "checkpoint/rank.npz": "861f20aa3da058217d16b5c51ae8e9c09db80c900232e6ae18ef3552849c7eb5"
+  }
+}
